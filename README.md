@@ -1,4 +1,4 @@
-# Korada Chaitanya - Cybersecurity Portfolio
+# Korada Chaitanya Portfolio
 
 A modern, responsive portfolio website showcasing my expertise in cybersecurity, ethical hacking, and security analysis.
 
