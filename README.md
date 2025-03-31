@@ -2,7 +2,6 @@
 
 A modern, responsive portfolio website showcasing my expertise in cybersecurity, ethical hacking, and security analysis.
 
-![Portfolio Preview](https://images.unsplash.com/photo-1510915361894-db8b60106cb1?auto=format&fit=crop&q=80&w=1200)
 
 ## 🛡️ About Me
 
